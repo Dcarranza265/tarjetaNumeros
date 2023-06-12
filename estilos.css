@@ -1,0 +1,17 @@
+body{
+    background: orange;
+}
+input{
+    background: transparent !important;
+    
+}
+.form-control{
+    color: aliceblue !important; 
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
